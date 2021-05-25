@@ -1,0 +1,16 @@
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.exe
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.deps.json
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.runtimeconfig.json
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.runtimeconfig.dev.json
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.dll
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\ref\Testing.dll
+C:\Users\vanyo\OneDrive\Desktop\Testing\bin\Debug\net5.0\Testing.pdb
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.csprojAssemblyReference.cache
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.AssemblyInfoInputs.cache
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.AssemblyInfo.cs
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.dll
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\ref\Testing.dll
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.pdb
+C:\Users\vanyo\OneDrive\Desktop\Testing\obj\Debug\net5.0\Testing.genruntimeconfig.cache
